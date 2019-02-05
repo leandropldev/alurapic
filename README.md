@@ -1,4 +1,4 @@
-#Curso Angular 6 (Parte 1)
+##Curso Angular 6 (Parte 1)
 
 Carregar bootstrap no projeto:
 	1 - baixar o bootstrap na pasta do projeto: npm install bootstrap@4.1.1
@@ -10,6 +10,7 @@ Carregar bootstrap no projeto:
 			],
 			"scripts": []
 			
+<<<<<<< HEAD
 Components
 	Convenção Angular:
 		nome do arquivo: photo.component.ts
@@ -24,3 +25,5 @@ Components
 		selector: tag que será chamada no app.componet
 		templateUrl: caminho do arquivo html que tera o conteúdo da tag 
 			Ex: templateUrl: 'photo.component.html'
+=======
+>>>>>>> a755ad841e134e6124b777f1a34e54ae4dd23a67
