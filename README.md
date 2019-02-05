@@ -10,7 +10,6 @@ Carregar bootstrap no projeto:
 			],
 			"scripts": []
 			
-<<<<<<< HEAD
 Components
 	Convenção Angular:
 		nome do arquivo: photo.component.ts
@@ -25,5 +24,7 @@ Components
 		selector: tag que será chamada no app.componet
 		templateUrl: caminho do arquivo html que tera o conteúdo da tag 
 			Ex: templateUrl: 'photo.component.html'
-=======
->>>>>>> a755ad841e134e6124b777f1a34e54ae4dd23a67
+
+Gerenciamento de Módulos
+	Criar um modulo que irá conter todos os modulos "similares" a fim de simplificar a chamada de modulos em root
+
