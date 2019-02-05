@@ -1,4 +1,4 @@
-#Curso Angular 6 (Parte 1)
+##Curso Angular 6 (Parte 1)
 
 Carregar bootstrap no projeto:
 	1 - baixar o bootstrap na pasta do projeto: npm install bootstrap@4.1.1
