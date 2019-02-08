@@ -1,4 +1,4 @@
-##Curso Angular 6 (Parte 1)
+#Curso Angular 6 (Parte 1)
 
 Carregar bootstrap no projeto:
 
@@ -25,6 +25,11 @@ Components
 		selector: tag que será chamada no app.componet
 		templateUrl: caminho do arquivo html que tera o conteúdo da tag 
 			Ex: templateUrl: 'photo.component.html'
+
+Integração com Web API:
+	Classe: HttpClient que é injetada no construtor do component
+	A classe importada precisa de um 'provide'. Para isso, importar o modulo HttpClientModule no PhotosModule
+	
 
 Gerenciamento de Módulos
 	Criar um modulo que irá conter todos os modulos "similares" a fim de simplificar a chamada de modulos em root
